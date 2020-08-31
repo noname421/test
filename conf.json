@@ -1,0 +1,34 @@
+{
+    "tvauth":"https://testauth.googleappinfo.com/v1/auth",
+    "tvtm":"tm1.googleappinfo.com",
+    "tvmk":"https://broker.nbaonlineservice.com/v1/caches",
+    "api":[
+        {
+            "name":"api.googleappinfo.net",
+            "ip":"104.31.64.85"
+        },
+        {
+            "name":"api.googleappinfo.top",
+            "ip":"104.31.65.85"
+        },
+        {
+            "name":"api.googleappinfo.xyz",
+            "ip":"172.67.143.120"
+        }
+    ],
+	"ptj":[
+        {
+            "name":"ptjapi.googleappinfo.net",
+            "ip":"104.31.64.85"
+        },
+        {
+            "name":"ptjapi.googleappinfo.top",
+            "ip":"104.31.65.85"
+        },
+        {
+            "name":"ptjapi.googleappinfo.xyz",
+            "ip":"172.67.143.120"
+        }
+    ],
+    "Comment":""
+}
